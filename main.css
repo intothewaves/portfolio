@@ -1035,4 +1035,8 @@ footer.on .inner a img {
 	.greetings br {
 		display: none;
 	}
+	.m{
+		display: inline-block;
+		width: 5px;
+	}
 }
